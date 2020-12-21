@@ -1,0 +1,10 @@
+f0c1881d-f991-4739-ae20-37a820181332	FVilla	9	5BIMPccDwShpXq784RJlJp	track	true
+b601750d-fdd5-4295-a38f-02f626f536fc	FVilla	9	5ZIDCr7j6480uxOyYuydny	album	true
+9eb1ab80-299c-46d5-96c1-66f50dca3a05	FVilla	8	78lgmZwycJ3nzsdgmPPGNx	track	false
+620eac12-13e8-4d8d-a25a-b57b30f47ded	FVilla	9	2nVHqZbOGkKWzlcy1aMbE7	track	true
+97a4cb66-9e59-4cee-89cc-97a6fd2b8b12	JackMan9000	8	4NJhFmfw43RLBLjQvxDuRS	artist	true
+75d3e8ef-b1ec-4e5c-850c-f1ae9f020ac5	JackMan9000	9	2wOqMjp9TyABvtHdOSOTUS	artist	true
+4553c6d9-ff41-4af5-8046-2f66e3907839	JackMan9000	8	0GDGKpJFhVpcjIGF8N6Ewt	artist	true
+28c9008a-2ce4-41b4-82a2-9dbbf3a90020	Pacman	10	4QXiiOiz8PDTVaMna4w4rc	artist	true
+3db51c96-8b7b-45c2-8597-a7974cfdc7e7	Pacman	7	3Pbv6YM0RZUA0MfBcxDIF6	artist	false
+bef0c1d1-8b72-4567-9d04-3ed8ecdd2972	Winston	5	4tZwfgrHOc3mvqYlEYSvVi	artist	true

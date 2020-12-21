@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="500.0" prefWidth="740.0" style="-fx-background-color: #DCDCDC;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controllers.SearchController">
+   <children>
+      <Pane layoutX="37.0" layoutY="37.0" prefHeight="427.0" prefWidth="667.0" style="-fx-background-color: #ffffff;">
+         <children>
+            <Label layoutX="200.0" layoutY="65.0" text="Music Search">
+               <font>
+                  <Font size="46.0" />
+               </font>
+            </Label>
+            <HBox layoutX="138.0" layoutY="164.0" prefHeight="25.0" prefWidth="384.0">
+               <children>
+                  <TextField fx:id="searchContent" prefHeight="43.0" prefWidth="288.0" />
+                  <ChoiceBox fx:id="searchType" prefHeight="43.0" prefWidth="96.0" />
+               </children>
+            </HBox>
+            <Button layoutX="200.0" layoutY="214.0" mnemonicParsing="false" onAction="#searchButtonClicked" prefHeight="25.0" prefWidth="103.0" text="Search" />
+            <Button layoutX="364.0" layoutY="214.0" mnemonicParsing="false" onAction="#returnToProfileButtonClicked" text="Return to Profile" />
+            <Label layoutX="280.0" layoutY="189.0" text="Nothing to Search!" textFill="RED" />
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>
